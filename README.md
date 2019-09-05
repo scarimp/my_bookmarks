@@ -2,13 +2,14 @@
 The bookmarks made from 2012 about systems on NLP.
 
 **Google Cloud Natural vs. gensim vs. Amazon Comprehend vs. NLU vs. MonkeyLearn vs. Semantria**
+
 It comes with pre-trained statistical models and word vectors, 
 and currently supports tokenization for 49+ languages.
 rasa NLU
 rasa NLU (Natural Language Understanding) is a tool for intent classification and entity extraction. 
 You can think of rasa NLU as a set of high level APIs for building your own language 
 parser using existing NLP and ML libraries.
-Google Cloud Natural Language API
+Google Cloud Natural Language API.
 You can use it to extract information about people, places, events and much more, 
 mentioned in text documents, news articles or blog posts. You can use it to 
 understand sentiment about your product on social media or parse intent from 

@@ -50,4 +50,4 @@ Un gruppo tutto italiano di ricercatori ha messo a punto una nuova teoria che ap
 # GAMING MACHINE LEARNING.
 
 1. [Gaming ML at IBM](https://developer.ibm.com/articles/machine-learning-and-gaming/)
-2. [Machine Learnibg at IBM](https://developer.ibm.com/technologies/machine-learning/)
+2. [Machine Learning at IBM](https://developer.ibm.com/technologies/machine-learning/)

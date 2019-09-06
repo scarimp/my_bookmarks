@@ -44,3 +44,9 @@ Un gruppo tutto italiano di ricercatori ha messo a punto una nuova teoria che ap
 2. [Quick start with ML model making.](http://help.monkeylearn.com/en/articles/2173776-quick-start-with-monkeylearn)
 3. [From monkeylearn blog, definitive-guide-natural-language-processing.](https://monkeylearn.com/blog/definitive-guide-natural-language-processing/)
 4. [From (Semantria) lexalytics blog , BERT Explained: Taking NLP to the Next Level ](https://www.lexalytics.com/lexablog/)
+
+
+
+# GAMING MACHINE LEARNING.
+
+1. [Gaming ML at IBM](https://developer.ibm.com/articles/machine-learning-and-gaming/)

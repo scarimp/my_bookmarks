@@ -47,7 +47,8 @@ Un gruppo tutto italiano di ricercatori ha messo a punto una nuova teoria che ap
 
 
 
-# GAMING MACHINE LEARNING.
+# GAMING PAYING WITH MACHINE LEARNING.
 
 1. [Gaming ML at IBM](https://developer.ibm.com/articles/machine-learning-and-gaming/)
 2. [Machine Learning at IBM](https://developer.ibm.com/technologies/machine-learning/)
+3. [Machine Learning is fun](https://www.machinelearningisfun.com/)

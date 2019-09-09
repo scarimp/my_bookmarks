@@ -54,4 +54,4 @@ Un gruppo tutto italiano di ricercatori ha messo a punto una nuova teoria che ap
 3. [Machine Learning is fun](https://www.machinelearningisfun.com/)
 4. [Machine learning in LAW](https://towardsdatascience.com/nlp-for-topic-modeling-summarization-of-legal-documents-8c89393b1534)
 
-D o you ever wonder how lawyers effectively manage series of court statements. How do they get around the general context of a legal document in order to figure what to look-out for before eventually having to take it up. Seems pretty easy until one has a 3000 paged document with salient details. This was the motivation behind this project, to automatically model topics from a pdf of legal documents and summarize the key contexts.
+    Do you ever wonder how lawyers effectively manage series of court statements. How do they get around the general context of     a legal document in order to figure what to look-out for before eventually having to take it up. Seems pretty easy until one has a 3000 paged document with salient details. This was the motivation behind this project, to automatically model topics from a pdf of legal documents and **summarize** the key contexts.

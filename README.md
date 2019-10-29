@@ -1,4 +1,6 @@
 # my_bookmarks
+
+[Windows to pdf]8https://www.isumsoft.com/windows-10/enable-microsoft-print-to-pdf-option-in-windows-10.html#opt1)
 The bookmarks made from 2012 about systems on NLP.
 
 **Google Cloud Natural vs. gensim vs. Amazon Comprehend vs. NLU vs. MonkeyLearn vs. Semantria**
